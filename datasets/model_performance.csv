@@ -1,0 +1,7 @@
+Model,Test Score,Train Score
+XGBoost,0.6964938320881094,0.701463929784589
+Neural Network,0.6943235253763735,0.7126356972688002
+<class 'sklearn.ensemble.forest.RandomForestClassifier'>,0.676250109138987,0.9842131741207483
+<class 'sklearn.ensemble.forest.ExtraTreesClassifier'>,0.6692153218664638,0.9999916845794684
+<class 'sklearn.linear_model.logistic.LogisticRegression'>,0.6594115225824155,0.6640029602897093
+<class 'sklearn.naive_bayes.GaussianNB'>,0.625447469846457,0.6254194090230628

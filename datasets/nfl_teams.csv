@@ -1,0 +1,33 @@
+,ID,Name,Abbreviation,Conference,Division
+0,1,Arizona Cardinals,ARI,NFC,West
+1,2,Atlanta Falcons,ATL,NFC,South
+2,3,Baltimore Ravens,BAL,AFC,North
+3,4,Buffalo Bills,BUF,AFC,East
+4,5,Carolina Panthers,CAR,NFC,South
+5,6,Chicago Bears,CHI,NFC,North
+6,7,Cincinnati Bengals,CIN,AFC,North
+7,8,Cleveland Browns,CLE,AFC,North
+8,9,Dallas Cowboys,DAL,NFC,East
+9,10,Denver Broncos,DEN,AFC,West
+10,11,Detroit Lions,DET,NFC,North
+11,12,Green Bay Packers,GB,NFC,North
+12,13,Houston Texans,HOU,AFC,South
+13,14,Indianapolis Colts,IND,AFC,South
+14,15,Jacksonville Jaguars,JAX,AFC,South
+15,16,Kansas City Chiefs,KC,AFC,West
+16,17,Miami Dolphins,MIA,AFC,East
+17,18,Minnesota Vikings,MIN,NFC,North
+18,19,New England Patriots,NE,AFC,East
+19,20,New Orleans Saints,NO,NFC,South
+20,21,NY Giants,NYG,NFC,East
+21,22,NY Jets,NYJ,AFC,East
+22,23,Oakland Raiders,OAK,AFC,West
+23,24,Philadelphia Eagles,PHI,NFC,East
+24,25,Pittsburgh Steelers,PIT,AFC,North
+25,26,San Diego Chargers,SD,AFC,West
+26,27,San Francisco 49ers,SF,NFC,West
+27,28,Seattle Seahawks,SEA,NFC,West
+28,29,St. Louis Rams,STL,NFC,West
+29,30,Tampa Bay Buccaneers,TB,NFC,South
+30,31,Tennessee Titans,TEN,AFC,South
+31,32,Washington Redskins,WAS,NFC,East

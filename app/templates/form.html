@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PlayPredictor</title>
+</head>
+
+<center>
+<h1 style="border-radius: 5px;
+background: #e6ffe6; padding: 3px; width: 400px;
+height: 50px;line-height:150%;">NFL Pass or Run?</h1>
+</center>
+
+<body>
+<style>
+		body {
+		background-image: url("https://cdn1.imggmi.com/uploads/2019/8/26/e451a9f3cd12bbfe23586eb50bff886d-full.png");
+		background-repeat: no-repeat;
+		background-size: 1500px 600px;
+		}
+</style>
+	<center><p>{{error_message}}</p>
+	<form action="/submit" style="border-radius: 5px;
+background: #e6ffe6; padding: 2px; width: 300px;
+height: 490px;line-height:150%;">
+	<h3>
+		<p><label for=down>Down</label><br><input type='number' name=down style="width: 50px; height: 20px; background-color:gainsboro;"></p>
+		<p><label for=qtr>Quarter</label><br><input type='number' name=qtr style="width: 50px; height: 20px; background-color:gainsboro;"></p>
+		<p><label for=time>Time (minute:second)</label><br><input type=string name=time style="width: 50px; height: 20px; background-color:gainsboro;"></p>
+		<p><label for=ydstogo>Yards to 1st Down</label><br><input type='number' name=ydstogo style="width: 50px; height: 20px; background-color:gainsboro;"></p>
+		<p><label for=score_differential>Score Differential</label><br><input type='number' name=score_differential style="width: 50px; height: 20px; background-color:gainsboro;"></p>
+		<p><label for=yardline_100>Yards to Opponent's Endzone</label><br><input type='number' name=yardline_100 style="width: 50px; height: 20px; background-color:gainsboro;"></p>
+		<p><button type="submit" style="width: 200px; height: 45px; font-size: 25px; color:dimgray; background-color:gainsboro;">Submit</button></p>
+	</h3>
+	</form>
+  </center>
+</body>
+
+<center>
+<h4>Disclaimer: This tool only predicts run or pass. It does not take into account kickoffs, punts, field goals, extra points, and no plays. The model does treat qb spikes as passes and qb kneels as runs.</h4>
+</center>
+
+</html>

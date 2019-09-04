@@ -1,0 +1,36 @@
+ID,Name,Abbreviation,Conference,Division,team
+1,Arizona Cardinals,ARI,NFC,West,Cardinals
+2,Atlanta Falcons,ATL,NFC,South,Falcons
+3,Baltimore Ravens,BAL,AFC,North,Ravens
+4,Buffalo Bills,BUF,AFC,East,Bills
+5,Carolina Panthers,CAR,NFC,South,Panthers
+6,Chicago Bears,CHI,NFC,North,Bears
+7,Cincinnati Bengals,CIN,AFC,North,Bengals
+8,Cleveland Browns,CLE,AFC,North,Browns
+9,Dallas Cowboys,DAL,NFC,East,Cowboys
+10,Denver Broncos,DEN,AFC,West,Broncos
+11,Detroit Lions,DET,NFC,North,Lions
+12,Green Bay Packers,GB,NFC,North,Packers
+13,Houston Texans,HOU,AFC,South,Texans
+14,Indianapolis Colts,IND,AFC,South,Colts
+15,Jacksonville Jaguars,JAX,AFC,South,Jaguars
+16,Kansas City Chiefs,KC,AFC,West,Chiefs
+17,Miami Dolphins,MIA,AFC,East,Dolphins
+18,Minnesota Vikings,MIN,NFC,North,Vikings
+19,New England Patriots,NE,AFC,East,Patriots
+20,New Orleans Saints,NO,NFC,South,Saints
+21,NY Giants,NYG,NFC,East,Giants
+22,NY Jets,NYJ,AFC,East,Jets
+23,Oakland Raiders,OAK,AFC,West,Raiders
+24,Philadelphia Eagles,PHI,NFC,East,Eagles
+25,Pittsburgh Steelers,PIT,AFC,North,Steelers
+26,San Diego Chargers,SD,AFC,West,Chargers
+27,San Francisco 49ers,SF,NFC,West,49ers
+28,Seattle Seahawks,SEA,NFC,West,Seahawks
+29,St. Louis Rams,STL,NFC,West,Rams
+30,Tampa Bay Buccaneers,TB,NFC,South,Buccaneers
+31,Tennessee Titans,TEN,AFC,South,Titans
+32,Washington Redskins,WAS,NFC,East,Redskins
+29,Los Angeles Rams,LA,NFC,West,Rams
+26,Los Angeles Chargers,LAC,AFC,West,Chargers
+15,Jacksonville Jaguars,JAC,AFC,South,Jaguars
